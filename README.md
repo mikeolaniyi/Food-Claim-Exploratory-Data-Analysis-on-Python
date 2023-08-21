@@ -280,9 +280,10 @@ plt.ylabel('Time to close')
 plt.title('Range in number of Time to close by Location')
 
 # Display the plot
-plt.show()
+plt.show();
 
 
+![3  Range in number of Time to close by Location](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Analysis-on-Python/assets/120651356/d7f007dc-ccc2-420e-b9b7-0831405f9661)
 
 
 
