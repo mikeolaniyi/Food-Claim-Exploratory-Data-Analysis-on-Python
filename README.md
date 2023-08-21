@@ -283,9 +283,8 @@ plt.title('Range in number of Time to close by Location')
 plt.show();
 
 
-![3  Range in number of Time to close by Location](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Analysis-on-Python/assets/120651356/d7f007dc-ccc2-420e-b9b7-0831405f9661)
 
-
+![3  Range in number of Time to close by Location](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Analysis-on-Python/assets/120651356/9d19fdde-ad4c-4f9e-9ff4-a90f72f3efd8)
 
 
 
