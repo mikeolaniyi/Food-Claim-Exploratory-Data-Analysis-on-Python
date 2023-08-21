@@ -282,7 +282,10 @@ plt.title('Range in number of Time to close by Location')
 # Display the plot
 plt.show()
 
-![3  Range in number of Time to close by Location](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Analysis-on-Python/assets/120651356/99edaeee-ead6-4346-9fea-41bfe42f7a48)
+
+
+
+
 
 
 # Heatmap 
