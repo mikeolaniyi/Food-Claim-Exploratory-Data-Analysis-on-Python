@@ -187,6 +187,8 @@ df['cause'] = df['cause'].str.capitalize()
 df.head()
 ```
 
+Cleaned data head:
+![Food_claim_data_head](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Analysis-on-Python/assets/120651356/42ed35bc-0667-47a4-912d-cefc1360454b)
 
 
 
@@ -284,7 +286,8 @@ plt.show();
 
 
 
-![3  Range in number of Time to close by Location](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Analysis-on-Python/assets/120651356/9d19fdde-ad4c-4f9e-9ff4-a90f72f3efd8)
+![3 Range in number of Time to close by Location](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Analysis-on-Python/assets/120651356/ece8aeca-5a76-4f6a-812b-ca8553434783)
+
 
 
 
