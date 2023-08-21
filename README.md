@@ -1,5 +1,7 @@
 # Food Claim Exploratory Analysis in Python
 
+![Food_claim](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Analysis-on-Python/assets/120651356/ec38440d-1e7c-4cf9-a61d-487542ddfb43)
+
 # Background
 Vivendo is a fast food chain in Brazil with over 200 outlets. Customers often claim compensation from the company for food poisoning. The legal team processes these claims. The legal team has offices in four locations. The legal team wants to improve how long it takes to reply to customers and close claims. The head of the legal department wants a report on how each location differs in the time it takes to close claims.
 
@@ -29,7 +31,7 @@ null_counts = df.isnull().sum()
 print(null_counts)
 ```
 
-# - Two field found with null values.
+# - Two fields found with null values.
 
 
 # Data Validation: Let's start cleaning and validating all the fields one by one.
@@ -219,6 +221,7 @@ plt.title('Number of Claims in each location')
 # Display the chart
 plt.show()
 ```
+![1  Number of Claims in each location](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Analysis-on-Python/assets/120651356/352920f5-1b5d-40e2-8829-8d22c22f3ed0)
 
 
 # Findings:
@@ -250,6 +253,7 @@ plt.title('Distribution of Time to Close')
 #Display chart
 plt.show()
 ```
+![2  Distribution of Time to Close](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Analysis-on-Python/assets/120651356/b8604bf6-1b49-49d3-a333-91c1cff09e41)
 
 
 # Findings:
@@ -278,11 +282,15 @@ plt.title('Range in number of Time to close by Location')
 # Display the plot
 plt.show()
 
+![3  Range in number of Time to close by Location](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Analysis-on-Python/assets/120651356/99edaeee-ead6-4346-9fea-41bfe42f7a48)
+
 
 # Heatmap 
 sns.heatmap(df.corr(),annot=True);
 plt.title('The relationship between the values');
 ```
+![Hitmap- Relationship between values](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Analysis-on-Python/assets/120651356/33135678-92a9-4112-a070-e8240c819b91)
+
 
 # Findings:
 **We can examine two variables to explore the impact of office location on claim closure time. This analysis provides valuable insights for the legal team regarding the distribution of observations across different office locations.**
