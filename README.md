@@ -308,3 +308,4 @@ plt.title('The relationship between the values');
 # Recommendation
 # Given these observations, the legal team can prioritize Recife and Sao Luis office locations when formulating solutions to enhance the claims closure process. Additionally, further investigations can be conducted to determine any potential relationships between variables such as claim amount, individuals involved in the claim, and the duration of the claims closure process.
 
+![Food_claim](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Analysis-on-Python/assets/120651356/abf9ae1a-0843-41ba-a3e2-28319b5f20d2)
