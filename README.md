@@ -139,7 +139,7 @@ df['individuals_on_claim'].describe()
 
 
 
-# 7 Location
+# 7 Linked_cases
 
 # check the unique linked_case 
 unique_linked_cases = df['linked_cases'].unique()
