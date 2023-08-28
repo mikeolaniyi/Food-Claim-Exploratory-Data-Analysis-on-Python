@@ -21,9 +21,6 @@ sns.set_palette(['gray'])
 df = pd.read_csv('food_claims.csv')
 
 
-![Food_claim_data_head](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Analysis-on-Python/assets/120651356/95457f92-0873-404b-b222-0035482e952b)
-
-
 # Check all info and descrption
 df.head()
 df.info()
