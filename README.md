@@ -1,6 +1,6 @@
 # Food Claim Exploratory Analysis in Python
 
-![Food_claim](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Analysis-on-Python/assets/120651356/ec38440d-1e7c-4cf9-a61d-487542ddfb43)
+
 
 # Background
 Vivendo is a fast food chain in Brazil with over 200 outlets. Customers often claim compensation from the company for food poisoning. The legal team processes these claims. The legal team has offices in four locations. The legal team wants to improve how long it takes to reply to customers and close claims. The head of the legal department wants a report on how each location differs in the time it takes to close claims.
@@ -20,9 +20,8 @@ sns.set_palette(['gray'])
 # Load the dataset
 df = pd.read_csv('food_claims.csv')
 
-![Food_claim_data_head1](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Analysis-on-Python/assets/120651356/8864c060-2941-4058-8d5d-ba9a86d9cc35)
 
-
+![Food_claim_data_head](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Analysis-on-Python/assets/120651356/95457f92-0873-404b-b222-0035482e952b)
 
 
 # Check all info and descrption
