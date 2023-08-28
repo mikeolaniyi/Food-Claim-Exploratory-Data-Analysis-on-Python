@@ -1,4 +1,4 @@
-# Food Claim Exploratory Analysis in Python
+# Food Claim Exploratory Data Analysis in Python
 
 
 
