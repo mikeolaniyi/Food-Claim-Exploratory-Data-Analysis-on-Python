@@ -193,10 +193,12 @@ Cleaned data head:
 
 
 
-# Task 2
-# Create a visualization that shows the number of claims in each location. Use the visualization to:
+# Exploratory Data Analysis
 
-# State which category of the variable location has the most observations. Explain whether the observations are balanced across categories of the variable location
+# 1:
+# Create a visualization that shows the number of claims in each location, and use the visualization to:
+
+# Explain which category of the variable location has the most observations, and also to explain whether the observations are balanced across categories of the variable location
 
 
 ```python
@@ -232,7 +234,7 @@ plt.show()
 
 
 
-# Task 3
+# 2:
 # Describe the distribution of time to close for all claims. Your answer must include a visualization that shows the distribution.
 
 
@@ -267,7 +269,7 @@ plt.show()
 
 
 
-# Task 4
+# 3:
 # Describe the relationship between time to close and location. Your answer must include a visualization to demonstrate the relationship.
 
 
