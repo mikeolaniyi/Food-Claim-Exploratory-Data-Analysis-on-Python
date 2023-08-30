@@ -1,4 +1,4 @@
-# Food Claim Exploratory Data Analysis in Python
+![3 Range in number of Time to close by Location](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Data-Analysis-on-Python/assets/120651356/69e47369-c564-4dea-981e-1022701ac42f)# Food Claim Exploratory Data Analysis in Python
 
 
 
@@ -242,7 +242,6 @@ plt.show()
 ```
 ![1  Number of Claims in each location](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Analysis-on-Python/assets/120651356/352920f5-1b5d-40e2-8829-8d22c22f3ed0)
 
-
 # Findings:
 **There are four categories of location included in this data. The location with the most number of claims is Recife, with Sao Luis being second although with 25% of the number of the overall calim. The categories are unbalanced, with most observations being either Recife or Sao Luis. The legal team should focus on Recife and Sao Luis as they are the location with most claim. Recife: 42.92%, Sao Luis: 25.07%, Fortaleza: 15.04%, Natal: 13.97%.**
 
@@ -300,14 +299,13 @@ plt.title('Range in number of Time to close by Location')
 
 # Display the plot
 plt.show();
+```
 
 
-
-![3 Range in number of Time to close by Location](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Analysis-on-Python/assets/120651356/ece8aeca-5a76-4f6a-812b-ca8553434783)
-
+![3 Range in number of Time to close by Location](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Data-Analysis-on-Python/assets/120651356/d5c2f2fe-79ff-411e-8e7e-79088a3dd3cb)
 
 
-
+```
 # Heatmap 
 sns.heatmap(df.corr(),annot=True);
 plt.title('The relationship between the values');
