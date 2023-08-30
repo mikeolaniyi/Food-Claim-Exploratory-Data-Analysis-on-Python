@@ -45,9 +45,11 @@ df.boxplot()
 # Check for null values
 null_counts = df.isnull().sum()
 print(null_counts)
-```
 
 # - Two fields found with null values.
+```
+
+
 
 
 # Data Validation: Let's start cleaning and validating all the fields one by one.
