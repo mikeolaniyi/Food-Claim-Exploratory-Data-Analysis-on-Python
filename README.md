@@ -1,5 +1,6 @@
-![3 Range in number of Time to close by Location](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Data-Analysis-on-Python/assets/120651356/69e47369-c564-4dea-981e-1022701ac42f)# Food Claim Exploratory Data Analysis in Python
+# Food Claim Exploratory Data Analysis in Python
 
+![Food_claim](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Data-Analysis-on-Python/assets/120651356/141bc6d3-6510-4303-a229-f0eb5a15d2c0)
 
 
 # Business Background
