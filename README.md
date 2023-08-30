@@ -235,7 +235,7 @@ plt.show()
 
 
 # 2:
-# Describe the distribution of time to close for all claims. Your answer must include a visualization that shows the distribution.
+# Create a visualization that describes the distribution of time to close for all claims.
 
 
 ```python
@@ -270,7 +270,7 @@ plt.show()
 
 
 # 3:
-# Describe the relationship between time to close and location. Your answer must include a visualization to demonstrate the relationship.
+# Create a visualization that shows the relationship between time to close and location.
 
 
 
