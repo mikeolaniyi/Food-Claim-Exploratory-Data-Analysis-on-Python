@@ -6,6 +6,20 @@
 Vivendo is a fast food chain in Brazil with over 200 outlets. Customers often claim compensation from the company for food poisoning. The legal team processes these claims. The legal team has offices in four locations. The legal team wants to improve how long it takes to reply to customers and close claims. The head of the legal department wants a report on how each location differs in the time it takes to close claims.
 
 
+# Business Problem:
+The legal department is dealing with:
+- Inefficient customer response times.
+- Unanalyzed geographical differences in claim processing time.
+- Inadequate insights into claim closure duration
+
+
+# Business Questions:
+- How many customers are there in each location?
+- Is there any relationship between Locations and the time it takes to close claims?
+- How does the time to close claims looks like?
+
+
+
 ```python
 # import all the the required library
 import pandas as pd
