@@ -198,7 +198,7 @@ Cleaned data head:
 # 1:
 # Create a visualization that shows the number of claims in each location, and use the visualization to:
 
-# Explain which category of the variable location has the most observations, and also to explain whether the observations are balanced across categories of the variable location
+# Explain which category of the variable location has the most observations, and also to explain whether the observations are balanced across categories of the variable location.
 
 
 ```python
