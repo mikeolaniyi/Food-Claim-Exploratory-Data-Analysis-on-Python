@@ -246,7 +246,7 @@ plt.show()
 ![1  Number of Claims in each location](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Analysis-on-Python/assets/120651356/352920f5-1b5d-40e2-8829-8d22c22f3ed0)
 
 # Findings:
-**There are four categories of location included in this data. The location with the most number of claims is Recife, with Sao Luis being second although with 25% of the number of the overall calim. The categories are unbalanced, with most observations being either Recife or Sao Luis. The legal team should focus on Recife and Sao Luis as they are the location with most claim. Recife: 42.92%, Sao Luis: 25.07%, Fortaleza: 15.04%, Natal: 13.97%.**
+**There are four categories of location included in this data. The location with the most number of claims is Recife, with Sao Luis being second although with 25% of the number of the overall calim. The categories are unbalanced, with most observations being either Recife or Sao Luis. The legal team should focus on Recife and Sao Luis as they are the location with most claim. Recife: 44.25%, Sao Luis: 25.85%, Fortaleza: 15.55%, Natal: 14.35%.**
 
 
 
