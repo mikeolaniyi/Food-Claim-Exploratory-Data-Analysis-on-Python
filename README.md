@@ -31,6 +31,11 @@ The legal department is dealing with:
 
 
 
+![Food Claim EDA On Python Project Executive Summary (1)](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Data-Analysis-on-Python/assets/120651356/70a1948a-057d-4895-b47c-f440c1418e81)
+
+
+
+
 ```python
 # import all the the required library
 import pandas as pd
