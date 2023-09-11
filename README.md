@@ -2,8 +2,15 @@
 
 ![Food_claim](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Data-Analysis-on-Python/assets/120651356/141bc6d3-6510-4303-a229-f0eb5a15d2c0)
 
-# Table of Content 
-![Food_claim](https://github.com/mikeolaniyi/Business Background
+# Table of Contents: 
+# - Business Background
+# - Business Problem
+# - Business Questions
+# - Step-by-step python code data cleaning process
+# - Visualizations
+# - Answers to all Business Questions
+# - Recommendations
+
 
 # Business Background
 Vivendo is a fast food chain in Brazil with over 200 outlets. Customers often claim compensation from the company for food poisoning. The legal team processes these claims. The legal team has offices in four locations. The legal team wants to improve how long it takes to reply to customers and close claims. The head of the legal department wants a report on how each location differs in the time it takes to close claims.
