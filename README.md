@@ -7,10 +7,10 @@
 - [Business Background](#business-background)
 - [Business Problem](#business-problem)
 - [Business Questions](#business-questions)
-- [Step-by-step python code data cleaning process](#step-by-step-python-code-data-cleaning-process)
-- [Visualizations](#visualizations)
-- [Answers to all Business Questions](#answers-to-all-business-questions)
-- [Recommendations](#recommendations)
+- [Step-by-step data cleaning and Data Validation process](#step-by-step-python-code-data-cleaning-process)
+- [Exploratory Data Analysis Visualizations](# Exploratory Data Analysis visualizations)
+- [Findings: Answers to all Business Questions ](#Findings: answers-to-all-business-questions)
+- [Recommendation](#Recommendation)
 
 
 # Business Background
