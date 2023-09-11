@@ -2,7 +2,7 @@
 
 ![Food_claim](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Data-Analysis-on-Python/assets/120651356/141bc6d3-6510-4303-a229-f0eb5a15d2c0)
 
-``` Table of Content ```
+# ``` Table of Content ```
 # Business Background
 
 # Business Background
