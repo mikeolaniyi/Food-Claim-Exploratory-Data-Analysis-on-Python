@@ -211,7 +211,7 @@ print(cause_count)
 # capitalize
 df['cause'] = df['cause'].str.capitalize()
 
-# Let's check the head of the cleaned dataset
+# Let's check the head of the cleaned dataset 
 df.head()
 ```
 
