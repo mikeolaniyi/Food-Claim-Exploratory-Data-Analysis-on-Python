@@ -9,7 +9,7 @@
 - [Business Questions](#business-questions)
 - [Step-by-step data cleaning and Data Validation process](#step-by-step-python-code-data-cleaning-process)
 - [Exploratory Data Analysis Visualizations](# Exploratory Data Analysis visualizations)
-- [Findings: Answers to all Business Questions](#Findings: answers-to-all-business-questions)
+- [Findings: Answers to all Business Questions](#Findings: answers to business-questions)
 - [Recommendation](#Recommendation)
 
 
