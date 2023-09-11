@@ -8,8 +8,8 @@
 - [Business Problem](#business-problem)
 - [Business Questions](#business-questions)
 - [Step-by-step data cleaning and Data Validation process](#step-by-step-python-code-data-cleaning-process)
-- [Exploratory Data Analysis Visualizations](# Exploratory Data Analysis visualizations)
-- [Findings: Answers to all Business Questions](#Findings: answers to business-questions)
+- [EDA Visualizations](#EDA Visualizations)
+- [Solutions](#Solutions)
 - [Recommendation](#Recommendation)
 
 
@@ -220,7 +220,7 @@ Cleaned data head:
 
 
 
-# Exploratory Data Analysis Visualizations
+# EDA Visualizations
 
 # 1:
 # Create a visualization that shows the number of claims in each location, and use the visualization to:
@@ -255,7 +255,7 @@ plt.show()
 ```
 ![1  Number of Claims in each location](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Analysis-on-Python/assets/120651356/352920f5-1b5d-40e2-8829-8d22c22f3ed0)
 
-# Findings: Answers to Business Questions:
+# Solutions
 **There are four categories of location included in this data. The location with the most number of claims is Recife, with Sao Luis being second although with 25% of the number of the overall calim. The categories are unbalanced, with most observations being either Recife or Sao Luis. The legal team should focus on Recife and Sao Luis as they are the location with most claim. Recife: 44.25%, Sao Luis: 25.85%, Fortaleza: 15.55%, Natal: 14.35%.**
 
 
@@ -287,7 +287,7 @@ plt.show()
 ![2  Distribution of Time to Close](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Analysis-on-Python/assets/120651356/b8604bf6-1b49-49d3-a333-91c1cff09e41)
 
 
-# Findings: Answers to Business Questions:
+# Solution
 **The graph below exhibits a predominantly symmetrical, with more data clusters around the peak. distribution, indicating a normal distribution pattern. However, when specifically examining the time it takes to close claims, the distribution is right-skews. While outliers exist, indicating rare instances of claims taking over 300 days to close, the majority of claims fall within the range of 173 to 188 days.**
 
 **Based on this insightful analysis, the legal team is now equipped to establish targeted objectives and performance metrics aimed at enhancing the closure time of claims. By considering the typical timeframe within which the majority of claims are resolved, the team can set realistic goals and develop strategies to streamline and expedite the claims closure process.**
@@ -326,7 +326,7 @@ plt.title('The relationship between the values');
 ![Hitmap- Relationship between values](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Analysis-on-Python/assets/120651356/33135678-92a9-4112-a070-e8240c819b91)
 
 
-# Findings: Answers to Business Questions:
+# Solution
 **We can examine two variables to explore the impact of office location on claim closure time. This analysis provides valuable insights for the legal team regarding the distribution of observations across different office locations.**
 **From the graph, it is evident that all office locations exhibit similar interquartile ranges. The mean slightly surpasses the median for each location, indicating the presence of outliers. However, both the mean and median values demonstrate consistency, ranging from 178 to 180.**
 **Notably, the Recife office location stands out with the highest number of outliers, representing cases that took more than 300 to 400 days to close. Similarly, Sao Luis exhibits a few cases exceeding 400 days for closure, alongside outlier cases taking over 300 days. Fortaleza and Natal, on the other hand, have a lower number of outliers**.
