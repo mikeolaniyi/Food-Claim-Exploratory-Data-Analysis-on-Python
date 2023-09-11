@@ -8,7 +8,7 @@
 - [Business Problem](#business-problem)
 - [Business Questions](#business-questions)
 - [Step-by-step data cleaning and Data Validation process](#step-by-step-python-code-data-cleaning-process)
-- [EDA Visualizations]
+- [EDA](#EDA)
 - [Solutions](#Solutions)
 - [Recommendation](#Recommendation)
 
@@ -220,7 +220,7 @@ Cleaned data head:
 
 
 
-# EDA Visualizations
+# EDA
 
 # 1:
 # Create a visualization that shows the number of claims in each location, and use the visualization to:
