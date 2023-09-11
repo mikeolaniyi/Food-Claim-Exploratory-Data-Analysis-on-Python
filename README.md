@@ -3,13 +3,14 @@
 ![Food_claim](https://github.com/mikeolaniyi/Food-Claim-Exploratory-Data-Analysis-on-Python/assets/120651356/141bc6d3-6510-4303-a229-f0eb5a15d2c0)
 
 # Table of Contents:
-# - [Business Background
-# - Business Problem
-# - Business Questions
-# - Step-by-step python code data cleaning process
-# - Visualizations
-# - Answers to all Business Questions
-# - Recommendations]
+
+- [Business Background](#business-background)
+- [Business Problem](#business-problem)
+- [Business Questions](#business-questions)
+- [Step-by-step python code data cleaning process](#step-by-step-python-code-data-cleaning-process)
+- [Visualizations](#visualizations)
+- [Answers to all Business Questions](#answers-to-all-business-questions)
+- [Recommendations](#recommendations)
 
 
 # Business Background
