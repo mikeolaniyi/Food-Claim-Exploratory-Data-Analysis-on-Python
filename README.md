@@ -8,7 +8,7 @@
 - [Business Problem](#business-problem)
 - [Business Questions](#business-questions)
 - [Step-by-step data cleaning and Data Validation process](#step-by-step-python-code-data-cleaning-process)
-- [EDA Visualizations](#EDA Visualizations)
+- [EDA Visualizations]
 - [Solutions](#Solutions)
 - [Recommendation](#Recommendation)
 
