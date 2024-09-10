@@ -67,7 +67,7 @@ print(null_counts)
 
 
 
-# Data Validation: Let's start cleaning and validating all the fields one by one.
+# Data Validation: Data cleaning and validating all the fields.
 
 ```python
 
